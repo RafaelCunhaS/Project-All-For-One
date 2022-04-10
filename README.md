@@ -4,7 +4,7 @@ MySQL project made while studying at Trybe, a web development school.
 
 The intent of the project was to create solutions involving the main commands and initial concepts of _SQL_ with the use of the Northwind database.
 
-### Skills
+### Skills Developed
 With this project I was able to:
 
 - Understand how the _Structured Query Language_ (SQL) is used;
